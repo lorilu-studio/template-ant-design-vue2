@@ -15,7 +15,7 @@
               <i class="title"></i>交互专家
             </p>
             <p>
-              <i class="group"></i>蚂蚁金服－某某某事业群－某某平台部－某某技术部－UED
+              <i class="group"></i>企业名称－某某某事业群－某某平台部－某某技术部－UED
             </p>
             <p>
               <i class="address"></i>

@@ -18,7 +18,7 @@
           <span>
             <a-tag>WebSite  Name</a-tag>
             <a-tag>设计语言</a-tag>
-            <a-tag>蚂蚁金服</a-tag>
+            <a-tag>企业名称</a-tag>
           </span>
         </template>
       </a-list-item-meta>
@@ -32,12 +32,10 @@
 
 <script>
 import { ArticleListContent } from '@/components'
-import IconText from '@/views/list/search/components/IconText'
 
 export default {
   name: 'Article',
   components: {
-    IconText,
     ArticleListContent
   },
   data () {
